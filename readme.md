@@ -8,5 +8,5 @@ A collection of useful links for programming.
 
 ## C++
 
-+[Referenz, auch Download](http://en.cppreference.com/w)
-+[Referenz](http://www.cplusplus.com/reference)
++ [Referenz, auch Download](http://en.cppreference.com/w)
++ [Referenz](http://www.cplusplus.com/reference)
