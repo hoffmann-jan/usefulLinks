@@ -1,5 +1,5 @@
 # usefulLinks
-A collection of useful links for programming.
+A collection of useful links for programming and some misc.
 
 ## C#
 + [Hidden Features of C#?](https://stackoverflow.com/questions/9033/hidden-features-of-c/1399130)
@@ -10,3 +10,9 @@ A collection of useful links for programming.
 
 + [Referenz, auch Download](http://en.cppreference.com/w)
 + [Referenz](http://www.cplusplus.com/reference)
+
+## misc
+<!--
+not for free :(
++ [Desinfect Article (german)](https://www.heise.de/ct/ausgabe/2014-12-Schaedlingssuche-mit-Desinfec-t-2014-2189627.html)
+-->
