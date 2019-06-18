@@ -12,6 +12,8 @@ A collection of useful links for programming and some misc.
 + [Referenz](http://www.cplusplus.com/reference)
 
 ## misc
+
++ [writing makefiles](https://www.cs.bu.edu/teaching/cpp/writing-makefiles/)
 <!--
 not for free :(
 + [Desinfect Article (german)](https://www.heise.de/ct/ausgabe/2014-12-Schaedlingssuche-mit-Desinfec-t-2014-2189627.html)
