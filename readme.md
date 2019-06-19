@@ -11,6 +11,10 @@ A collection of useful links for programming and some misc.
 + [Referenz, auch Download](http://en.cppreference.com/w)
 + [Referenz](http://www.cplusplus.com/reference)
 
+## Tex
+
++ [CTAN](https://www.ctan.org/)
+
 ## misc
 
 + [writing makefiles](https://www.cs.bu.edu/teaching/cpp/writing-makefiles/)
