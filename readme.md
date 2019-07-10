@@ -19,6 +19,7 @@ A collection of useful links for programming and some misc.
 
 + [CTAN](https://www.ctan.org/)
 + [Säulendiagramm erstellen](http://www.statistiker-wg.de/pgf/tutorials/barplot.htm)
++ [Diagramme](https://latexkurs.github.io/lecture/06_diagramme.pdf)
 
 ## misc
 
